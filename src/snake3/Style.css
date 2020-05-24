@@ -1,0 +1,59 @@
+.back {
+	-fx-background: #000000;
+}
+
+.button {
+	-fx-text-fill: red;
+        -fx-border-color: red;
+        -fx-background-color: black;
+}
+
+.empty {
+        -fx-fill: black;
+}
+
+.path{
+    -fx-fill: #202020;
+}
+
+.head.orange-head{
+        -fx-fill: orange;
+}
+.head.red-head{
+        -fx-fill: red;
+}
+.head.blue-head{
+        -fx-fill: blue;
+}
+.head.purple-head{
+        -fx-fill: purple;
+}
+.head.pink-head{
+        -fx-fill: #F689CE;
+}
+.head.white-head{
+        -fx-fill: white;
+}
+
+.tail.white-tail{
+        -fx-fill: white;
+}
+.tail.red-tail{
+        -fx-fill: red;
+}
+.tail.blue-tail{
+        -fx-fill: blue;
+}
+.tail.purple-tail{
+        -fx-fill: purple;
+}
+.tail.pink-tail{
+        -fx-fill: #F689CE;
+}
+.tail.orange-tail{
+        -fx-fill: orange;
+}
+
+.food {
+        -fx-fill: yellow;
+}
